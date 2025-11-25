@@ -32,22 +32,6 @@ triggers:
 When working with Docker containers...
 ```
 
-## Using Skills
-
-Skills from this registry are automatically loaded via the [Software Agent SDK](https://github.com/OpenHands/software-agent-sdk).
-
-### Custom Project Skills
-
-Create a `.openhands/microagents/` directory in your repository:
-
-```
-your-repository/
-└── .openhands/
-    └── microagents/
-        ├── repo.md        # General guidelines
-        └── custom.md      # Keyword-triggered skill
-```
-
 ## Contributing
 
 To contribute a skill:
