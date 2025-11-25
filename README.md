@@ -19,7 +19,7 @@ This project uses React and Node.js. Run `npm install` to set up...
 ```
 
 ### Keyword-Triggered Skills
-Loaded only when trigger words appear in prompts. Requires frontmatter.
+Loaded only when trigger words appear in user prompts. Requires frontmatter.
 
 ```markdown
 ---
