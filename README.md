@@ -52,7 +52,7 @@ To contribute a skill:
 
 **General Skills**: No frontmatter needed
 
-**Keyword-Triggered Skills**: Required frontmatter
+**Keyword-Triggered Skills**: Frontmatter required to specify triggers
 ```yaml
 ---
 triggers:
